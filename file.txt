@@ -1,2 +1,6 @@
 Iam soujanya
 Iam from Telengana
+<<<<<<< HEAD
+=======
+B text file
+>>>>>>> B
